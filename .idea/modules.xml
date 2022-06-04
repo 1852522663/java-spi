@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaSPI.iml" filepath="$PROJECT_DIR$/.idea/JavaSPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-api/simple-api.iml" filepath="$PROJECT_DIR$/simple-api/simple-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-company/simple-company.iml" filepath="$PROJECT_DIR$/simple-company/simple-company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-isp-mobile/simple-isp-mobile.iml" filepath="$PROJECT_DIR$/simple-isp-mobile/simple-isp-mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-isp-unicom/simple-isp-unicom.iml" filepath="$PROJECT_DIR$/simple-isp-unicom/simple-isp-unicom.iml" />
+    </modules>
+  </component>
+</project>
